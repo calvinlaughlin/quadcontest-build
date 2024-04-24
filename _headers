@@ -1,0 +1,3 @@
+# Which files to add headers to
+/Build/*.js.gz
+Content-Encoding: gzip
