@@ -1,4 +1,0 @@
-# Ensure the server serves .wasm files without any content encoding
-/Build/*.wasm
-  Content-Type: application/wasm
-  Content-Encoding: identity
