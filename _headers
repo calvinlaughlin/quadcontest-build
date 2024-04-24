@@ -1,3 +1,8 @@
 # Which files to add headers to
 /Build/*.js.gz
 Content-Encoding: gzip
+
+/Build/*.wasm.gz
+  Content-Encoding: gzip
+  Content-Type: application/wasm
+
